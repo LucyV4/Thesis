@@ -1,0 +1,2 @@
+ids,video_path,label,avg_amplitude,max_amplitude,mean_tapping_interval,mean_percycle_max_speed,mean_percycle_avg_speed,amp_slope,speed_slope,cov_tapping_interval,cov_amp,cov_per_cycle_speed_maxima,cov_per_cycle_speed_avg,num_interruptions2
+['PAT_ID'],/path/to/video/data/Visit x/PAT_ID/[On/Off]_2[L/R]_video.MP4,1.0,1.234567890,1.234567890,0.123456789,12.34567890,9.876543210,-0.000123456,-0.009876543,0.12345678,0.12345678,0.00987654,0.12345678,1
